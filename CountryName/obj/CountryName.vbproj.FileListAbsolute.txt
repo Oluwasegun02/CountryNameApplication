@@ -1,0 +1,14 @@
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Release\ResolveAssemblyReference.cache
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Release\CountryName.Form1.resources
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Release\CountryName.Resources.resources
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Release\CountryName.vbproj.GenerateResource.Cache
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Debug\CountryName.Form1.resources
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Debug\CountryName.Resources.resources
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Debug\CountryName.vbproj.GenerateResource.Cache
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\bin\Debug\CountryName.exe
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\bin\Debug\CountryName.pdb
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\bin\Debug\CountryName.xml
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Debug\CountryName.exe
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Debug\CountryName.xml
+C:\Users\adeba\Documents\Visual Studio 2005\Projects\CountryName\CountryName\obj\Debug\CountryName.pdb
